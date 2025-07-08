@@ -19,3 +19,12 @@ Technologies Used
 HTML
 CSS
 JavaScript
+How to Use
+Clone this repository to your local machine. Open the index.html file in your web browser to view the website.
+
+License
+This project is licensed under the MIT License
+
+MIT License
+
+Copyright (c) 2025 E.RAMESH CHANDRA
